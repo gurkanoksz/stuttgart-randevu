@@ -1,5 +1,5 @@
 name: Stuttgart Randevu Takip
-
+# güncel tutma
 on:
   schedule:
     - cron: '*/5 * * * *'
